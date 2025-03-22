@@ -1,24 +1,44 @@
-# README
+# Instagram Clone Project 📸
 
-Bu proje, bir web arayüzü tasarımında kullanılan CSS dosyalarını açıklamaktadır. Bu dosya, stil ayarlarını detaylandırarak geliştiricilere kodun nasıl çalıştığını anlatmayı amaçlamaktadır.
+Bu proje, Instagram'ın temel özelliklerini ve tasarımını taklit eden bir HTML, CSS ve Bootstrap projesidir. Kullanıcılar, gönderi paylaşabilir, yorum yapabilir, beğenebilir ve önerilen hesapları takip edebilir. Bu projede kullanılan temel teknolojiler HTML, CSS ve Bootstrap'tir.
 
-## Proje Amacı
-Bu CSS dosyası, web sayfasının görünümünü ve düzenini iyileştirmek için çeşitli stiller içermektedir. 
+## Proje Özellikleri ✨
+- **Kullanıcı Profili**: Profil fotoğrafı, kullanıcı adı ve beğeniler.
+- **Paylaşımlar**: Fotoğraf paylaşımı, beğeni, yorum ve paylaşım simgeleri.
+- **Yorumlar**: Gönderilere yapılan yorumlar.
+- **Yorum Ekleme**: Kullanıcıların gönderilere yorum ekleyebilmesi.
+- **Önerilen Hesaplar**: Takip etme önerileri.
 
-### Özellikler
-- **Placeholder Stilleri:** Form elemanlarının içindeki placeholder metinleri için özel stiller tanımlanmıştır.
-- **Sayfa Arka Planı:** Genel arka plan rengi belirlenerek kullanıcı deneyimi optimize edilmiştir.
-- **Kullanıcı Arayüzü (UI) Bileşenleri:** 
-  - **Kartlar (Card)**: Kartların üst ve alt bölümleri için özel düzenlemeler yapılmıştır.
-  - **Hikaye Fotoğrafları (Storyphoto)**: Profil fotoğraflarına yuvarlak çerçeve ve özel boyutlandırma eklenmiştir.
-  - **Sağ Panel Linkleri:** Linklerin renk ve hover efektleri tanımlanmıştır.
-- **Düzenleme ve Hizalama:** 
-  - **Flexbox kullanımı** ile kart başlıkları, altbilgileri ve üç nokta menüleri hizalanmıştır.
-  - **Row elementine üst boşluk eklenerek** sayfanın düzeni iyileştirilmiştir.
+## Kullanılan Teknolojiler 🛠️
+- **HTML**: Yapı için.
+- **CSS**: Stil ve tasarım için.
+- **Bootstrap**: Tasarımı hızlandırmak için.
+- **FontAwesome**: İkonlar için.
 
-## Kullanım
-Bu CSS dosyası, modern ve kullanıcı dostu bir web arayüzü tasarlamak için kullanılabilir. 
-Geliştiriciler, projeye entegre ederek stil kurallarına uygun bir görünüm elde edebilirler.
+## Kurulum ⚡
+1. Proje dosyasını bilgisayarınıza indirin.
+2. HTML dosyasını bir tarayıcıda açın.
+3. Projeyi yerel sunucunuzda çalıştırın veya doğrudan tarayıcınızda görüntüleyin.
 
-Bu dokümantasyon, projede birden fazla geliştirici çalışıyorsa kodun daha kolay anlaşılmasını ve düzenlenmesini sağlar.
+## Proje Yapısı 📂
+- **index.html**: Ana sayfa, profil ve paylaşımları içerir.
+- **css/**: Projeye özel stil dosyaları.
+- **images/**: Kullanıcı profilleri ve gönderi görselleri.
+- **fonts/**: FontAwesome ikonları.
 
+## Özellikler 📝
+- Kullanıcılar, fotoğraf gönderisi paylaşabilir 📷.
+- Gönderilere yorum yapabilir 📝.
+- Beğeni, yorum ve paylaşım ikonları 💬❤️🔄.
+- Önerilen hesaplar kısmında takip edilecek hesaplar önerilir 🔍.
+
+## Ekran Görüntüleri 📸
+![Instagram Clone](./images/screenshot.png)
+
+## Katkıda Bulunma 🤝
+Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun. Herhangi bir sorunla karşılaşırsanız, lütfen bir issue açın.
+
+## İletişim 📩
+Eğer projeyle ilgili bir şeyler paylaşmak veya sorular sormak isterseniz, benimle iletişime geçebilirsiniz!
+
+![ekran goruntusu](./images/screenphotos.png)
