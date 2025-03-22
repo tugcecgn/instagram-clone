@@ -33,7 +33,7 @@ Bu proje, Instagram'ın temel özelliklerini ve tasarımını taklit eden bir HT
 - Önerilen hesaplar kısmında takip edilecek hesaplar önerilir 🔍.
 
 ## Ekran Görüntüleri 📸
-![Instagram Clone](./images/screenshot.png)
+![ekran goruntusu](./images/screenphotos.png)
 
 ## Katkıda Bulunma 🤝
 Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun. Herhangi bir sorunla karşılaşırsanız, lütfen bir issue açın.
@@ -41,4 +41,3 @@ Katkıda bulunmak isterseniz, lütfen bir pull request oluşturun. Herhangi bir 
 ## İletişim 📩
 Eğer projeyle ilgili bir şeyler paylaşmak veya sorular sormak isterseniz, benimle iletişime geçebilirsiniz!
 
-![ekran goruntusu](./images/screenphotos.png)
